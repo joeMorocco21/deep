@@ -1,2 +1,2 @@
 # deep
-# https://midical.azurewebsites.net
+# https://medical-image.azurewebsites.net/
